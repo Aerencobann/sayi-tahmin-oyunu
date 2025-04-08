@@ -67,7 +67,7 @@ h1{
 }
 .guess{
     background-color: none;
-    color: inherit;
+    color: black;
     border: 4px solid white;
     font-family: inherit;
     font-size: 5rem;
